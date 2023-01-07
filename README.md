@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+## Sobre
+Projeto de estudo feito com o tutorial de introdução da [documentação do React](https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial) onde é ensinado a fazer um jogo da velha, com histórico, opção de voltar para jogada anterior e começar o jogo do zero novamente
+
+------
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
